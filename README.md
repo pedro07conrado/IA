@@ -12,4 +12,4 @@ executando o ambiente virtual
 ```
 source venv/bin/activate
 ```
-
+### instalando a biblioteca da Openai 
