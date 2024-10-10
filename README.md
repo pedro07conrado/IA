@@ -1,6 +1,6 @@
 # IA
 
-> [!note]
+> [!IMPORTANT]
 > Se ainda não tiver o python instalado no seu sistema, execute
 >```
 >sudo apt install python3-venv
