@@ -14,10 +14,11 @@ executando o ambiente virtual
 source venv/bin/activate
 ```
 ### instalando a biblioteca da Openai 
-*verifique se o gerenciador de pacote `pip` já está instalado na sua maquína, para verificar isso, execute*
-```
-pip3 --version
-```
+> [!note]
+>- *verifique se o gerenciador de pacote `pip` já está instalado na sua maquína, para verificar isso, execute*
+>```
+>pip3 --version
+>```
 instalando a biblioteca da Openai 
 ```
 pip install openai
