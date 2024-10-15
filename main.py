@@ -12,6 +12,7 @@ stream = client.chat.completions.create(
     messages=[
         {'role': 'user', 'content': 'Me fale mais sobre o Fiat Elba 1988'},
     ],
+    max_tokens=150,
     #por padrão ela ja vem falsa. coloquei assim para melhorar a experiência do user.
     stream=True,
 )
